@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code-js",
+  "version": "1.0.0",
+  "description": "advent of code 2017",
+  "main": "index.js",
+  "repository": "asd",
+  "author": "Ulrik Strid",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "babel-jest": "^21.2.0",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-preset-latest": "^6.24.1",
+    "flow-bin": "^0.60.1",
+    "jest": "^21.2.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "flow": "flow"
+  }
+}
